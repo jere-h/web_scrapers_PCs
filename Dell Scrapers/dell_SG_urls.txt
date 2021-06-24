@@ -1,0 +1,14 @@
+https://www.dell.com/en-sg/work/shop/scc/sr/laptops/latitude-laptops?sortBy=price-descending
+https://www.dell.com/en-sg/work/shop/scc/sr/laptops/inspiron-laptops?sortBy=price-descending
+https://www.dell.com/en-sg/work/shop/scc/sr/laptops/xps-laptops?sortBy=price-descending
+https://www.dell.com/en-sg/work/shop/scc/sr/desktops/optiplex-desktops?sortBy=price-descending
+https://www.dell.com/en-sg/work/shop/workstations/sr/workstations/precision-laptops
+https://www.dell.com/en-sg/work/shop/scc/sr/laptops/latitude-laptops
+https://www.dell.com/en-sg/work/shop/scc/sr/laptops/inspiron-laptops
+https://www.dell.com/en-sg/work/shop/scc/sr/laptops/vostro-laptops
+https://www.dell.com/en-sg/work/shop/scc/sr/laptops/xps-laptops
+https://www.dell.com/en-sg/shop/laptops-and-2in1-pcs/sr/laptops/alienware-laptops
+https://www.dell.com/en-sg/work/shop/scc/sr/desktops/optiplex-desktops
+https://www.dell.com/en-sg/work/shop/scc/sr/desktops/inspiron-desktops
+https://www.dell.com/en-sg/work/shop/scc/sr/desktops/vostro-desktops
+https://www.dell.com/en-sg/work/shop/scc/sr/workstations/precision-desktops
